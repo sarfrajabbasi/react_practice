@@ -1,0 +1,26 @@
+/* CSS */
+.button-33 {
+  background-color: #ac73ff;
+  border-radius: 100px;
+  box-shadow: #2cbb6333 0 -25px 18px -14px inset,#2cbb6326 0 1px 2px,#2cbb6326 0 2px 4px,#2cbb6326 0 4px 8px,#2cbb6326 0 8px 16px,#2cbb6326 0 16px 32px;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-33:hover {
+    color: #feea00;
+    background-color: #357960;
+  box-shadow: #ac73ff 0 -25px 18px -14px inset,#ac73ff 0 1px 2px,#ac73ff 0 2px 4px,#ac73ff 0 4px 8px,#ac73ff 0 8px 16px,#ac73ff 0 4px 8px;
+  transform: scale(1.05) rotate(-1deg);
+}
